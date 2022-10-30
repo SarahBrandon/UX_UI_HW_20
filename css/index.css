@@ -1,0 +1,30 @@
+h1, h2 {
+    font-family: Poppins, DM Sans, sans-serif;
+    text-align: center;
+}
+/*header*/
+header {
+    background: white;
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(228,229,229,1) 100%);
+}
+header ul {
+    float: right;
+}
+header li {
+    display: inline-block;
+    padding: 0px 30px;
+}
+/*hero*/
+.hero {
+    text-align: center;
+    margin: 0 auto;
+}
+/*images*/
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.ideation img {
+    float: right;
+}
